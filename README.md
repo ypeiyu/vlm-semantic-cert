@@ -1,5 +1,5 @@
 <h1 align="center">Semantic Robustness Certification for Vision-Language Models</h1>
-<h2 align="center"><strong>ICML 2026</strong></h2>
+<!-- <h2 align="center"><strong>ICML 2026</strong></h2> -->
 
 This code implements the semantic robustness certification framework from the following paper:
 
